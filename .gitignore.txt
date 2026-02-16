@@ -1,0 +1,3 @@
+# Jupyter Notebook chackpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
